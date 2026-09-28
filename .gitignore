@@ -1,0 +1,47 @@
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.npm
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables (Secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# Uploads / Dynamic Media Files
+server/uploads/
+ai-service/uploads/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
